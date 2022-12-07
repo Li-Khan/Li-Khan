@@ -13,7 +13,7 @@
 ![Grpc](https://img.shields.io/badge/-Grpc-0A0A0A?style=for-the-badge&logo=Grpc)
 ![Swagger](https://img.shields.io/badge/-Swagger-0A0A0A?style=for-the-badge&logo=Swagger)
 ![Bash](https://img.shields.io/badge/-Bash-0A0A0A?style=for-the-badge&logo=Bash)
-![Linux](https://img.shields.io/badge/-Bash-0A0A0A?style=for-the-badge&logo=Linux)
+![Linux](https://img.shields.io/badge/-Linux-0A0A0A?style=for-the-badge&logo=Linux)
 
 ### Follow me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A0A0A?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/li-khan/)
